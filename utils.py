@@ -4,11 +4,11 @@ import undetected_chromedriver as uc
 # Load and validate config
 config = yaml.safe_load(open('config.yaml').read())
 
-if not config['tiktok_cookies']:
-    raise Exception('Missing TikTok Cookies')
-
-if not config['reddit_cookies']:
-    raise Exception('Missing Reddit Cookies')
+#if not config['tiktok_cookies']:
+#    raise Exception('Missing TikTok Cookies')
+#
+#if not config['reddit_cookies']:
+#    raise Exception('Missing Reddit Cookies')
 
 def create_bot(headless=False):
     options = uc.ChromeOptions()
