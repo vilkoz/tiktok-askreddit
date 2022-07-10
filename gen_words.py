@@ -7,7 +7,7 @@ def main():
     with open(argv[1], "r") as f:
         lines = f.readlines()
     results = []
-    title = "Переклади слова рівня А1"
+    title = "Переклади слова рівня B1"
     while input(f"one more? [{len(results)}]:") in ["y", "+"]:
         line_to_remove = random.randint(0, len(lines))
         new_line = lines.pop(line_to_remove)

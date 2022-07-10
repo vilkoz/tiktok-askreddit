@@ -20,7 +20,6 @@ To delegate : Делегировать, посылать
 To transfer : Передавать, перечислять
 To employ : Нанимать, использовать, работать
 To catch : Поймать, ловить
-To commit : Совершить, зафиксировать, поручить
 To arrange : Организовать, устроить
 To implement : Внедрить, реализовать, осуществить
 To insulate : Ограждать
@@ -39,7 +38,6 @@ To tailor : Приспособить
 To validate : Удостоверять
 To reserve : Резервировать
 To estimate : Оценивать
-To consulate : Консультировать
 To regard : Рассматривать, учитывать, относиться
 To indicate : Указывать, обозначать, показывать
 To unify : Объединять
@@ -108,7 +106,6 @@ district : Район
 evidence : Доказательство, признак, факт
 honesty : Честность
 circumstance : Обстоятельство, случай, событие
-kindness : Доброта
 justice : Справедливость
 disgust : Отвращение, брезгливость
 А suggestion : Предложение, суждение, идея
@@ -126,13 +123,11 @@ willpower : Сила воли
 inequality : Неравенство
 А violence : Насилие, жестокость
 А bullying : Издевательство, травля
-А godliness : Благочестие, бодрость
 А compassion : Сострадание
 inclusivity : Инклюзивность
 А reciprocity : Взаимность, обоюдность
 friskiness : Игривость, раскованность, живость
 fervor : Пылкость, задор, рвение
-А youth : Молодежь, юноша, молодость
 adolescence : Подростковый возраст, отрочество
 А prerequisite : Предпосылка, условие
 fortune : Судьба, удача, желание, успех
@@ -141,15 +136,12 @@ disappointment : Разочарование
 distancing : Дистанцирование
 isolation : Изоляция
 self-care : Забота о себе
-medication : Лекарство
 celebration : Мероприятие
 physician : Врач, доктор, терапевт
 treatment : Лечение
-improvement : Улучшение
 symptom : Симптом
 dismay : Огорчение
 cancellation : Отмена
-suspiciousness : Подозрительность
 escalation : Обострение, эскалация
 proceeding : Разбирательство
 awareness : Осознание
@@ -161,18 +153,15 @@ restlessness : Беспокойство
 uncertainty : Неуверенность, неопределенность
 stress resistance : Стрессоустойчивость
 conscience : Совесть
-А mindfulness : Внимательность, мышление, осознанность
 protection : Защита, протекция
 referral : Направление
 hopelessness : Безнадежность
 reliability : Надежность
-verification : Проверка
 self-isolation : Самоизоляция
 А provocation : Провокация
 prevention : Профилактика
 side effect : Побочный эффект
 vaccination : Вакцинация
-immunization : Иммунизация
 contradiction : Противоречие
 emotion : Эмоция
 disagreement : Разногласие
@@ -187,7 +176,6 @@ depression : Депрессия
 А self-blame : Самобичевание
 А disorder : Расстройство, разлад
 А instability : Нестабильность
-А challenge : Вызов, сложность
 А sustainability : Устойчивость, жизнеспособность
 duration : Продолжительность
 А luckiness : Удачливость, везение
@@ -198,7 +186,6 @@ destination : Предназначение
 advantage : Преимущество
 win-win : Победа, выигрыш
 condition : Условие, обстоятельство, состояние
-contest : Соревнование, борьба, конкурс
 А humbleness : Смирение, скромность, покорность
 А fearlessness : Бесстрашие
 А hardening : Закалка, твердость
@@ -231,7 +218,6 @@ Valuable : Ценный
 Significant : Значительный, существенный
 Foremost : Передовой, основной, главный
 Recent : Недавний
-Updated : Обновленный
 Operational : Оперативный, рабочий, действующий
 Intuitive : Интуитивно понятный, интуитивный
 Essential : Существенный, важный
@@ -248,7 +234,6 @@ Leading : Ведущий, лидирующий
 Cognitive : Когнитивный, познавательный
 Cutting-edge : Современный, новейший
 Precise : Точный, четкий
-Unmatched : Неповторимый, непревзойденный
 Reasonable : Разумный, целесообразный
 Fundamental : Основополагающий
 Brilliant : Блестящий, гениальный
@@ -256,7 +241,6 @@ Inflexible : Несгибаемый, непогрешимый
 Crucial : Решающий, критический, важный
 Contemporary : Современный, актуальный
 Duplicated : Дублированный
-Tedious : Утомительный, кропотливый, надоедливый
 Multiple : Множественный, многочисленный
 Individual : Личный, индивидуальный
 Fitting : Подходящий
@@ -273,18 +257,14 @@ Additional : Дополнительный
 Burning : Горящий, жгучий
 Unassuming : Непритязательный
 Meaningful : Значимый, осмысленный
-Private : Личный, частный
-Careful : Бережный, осторожный
 Obscure : Наблюдательный, непонятный
 Accomplished : Состоятельный, успешный, достигнутый
 Ridiculous : Нелепый, смешной
 Contemptuous : Презрительный
-Fashionable : Модный
 Наречие : Перевод
 Invariably : Неизменно
 Intermittently : Иногда
 Infrequently : Редко
-Predominantly : Постоянно
 Elsewhere : Где-нибудь
 Scarcely : Едва
 Otherwise : Иначе
@@ -296,7 +276,6 @@ Somewhat : До некоторой степени
 Cheerfully : Весело
 Clumsily : Неуклюже
 In vain : Напрасно
-At once : Немедленно
 Casually : Случайно
 Since that : С тех пор
 By all means : Во что бы то ни стало
