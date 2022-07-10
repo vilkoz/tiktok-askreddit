@@ -4,11 +4,11 @@ import json
 
 
 def main():
-    with open(argv[1], "rw") as f:
+    with open(argv[1], "r") as f:
         lines = f.readlines()
     results = []
     title = "Переклади слова рівня А1"
-    while input("one more?:") == "y":
+    while input(f"one more? [{len(results)}]:") in ["y", "+"]:
         line_to_remove = random.randint(0, len(lines))
         new_line = lines.pop(line_to_remove)
         eng_word = new_line.split(" : ")[0]
@@ -24,6 +24,8 @@ def main():
 
     for i, r in enumerate(results):
         print({"title": f"{title} ч. {i}", "parts": r})
+    with open(argv[1], "w") as f:
+        f.write("".join(lines))
 
 
 if __name__ == "__main__":

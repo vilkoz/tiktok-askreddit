@@ -14,7 +14,6 @@ To tell : Рассказывать
 To take : Брать
 To sit : Садиться
 To stand : Стоять
-To laugh : Смеяться
 To smile : Улыбаться
 To open : Открывать
 To close : Закрывать
@@ -24,7 +23,6 @@ To give : Давать
 To bring : Приносить
 To breath : Дышать
 To buy : Покупать
-To sell : Продавать
 To forget : Забывать
 To believe : Верить
 To have : Иметь
@@ -37,7 +35,6 @@ To use : Использовать
 To find : Находить
 To work : Работать
 To eat : Есть
-To drink : Пить
 To write : Писать
 To read : Читать
 To call : Звонить
@@ -47,7 +44,6 @@ To become : Становиться
 To put : Класть
 To leave : Оставлять
 To pay : Платить
-To play : Играть
 To pray : Молиться
 To stay : Оставаться
 To mean : Означать
@@ -56,7 +52,6 @@ To let : Оставлять
 To begin : Начинать
 To start : Стартовать
 To finish : Заканчивать
-To help : Помогать
 To show : Показывать
 To cry : Плакать
 To move : Двигаться
@@ -69,7 +64,6 @@ To hate : Ненавидеть
 To include : Включать в себя
 To turn on : Включать (о приборе)
 To turn off : Выключать
-To continue : Продолжать
 To change : Менять
 To wash : Мыть
 To clean : Убирать, очищать
@@ -94,7 +88,6 @@ To send : Посылать
 To fall : Падать
 To cut : Резать
 To achieve : Достигать
-To communicate : Общаться
 To kill : Убивать
 To pass : Проходить
 To fly : Летать
@@ -121,14 +114,11 @@ To hesitate : Cомневаться
 air : Воздух
 wind : Ветер
 water : Вода
-west : Запад
 east : Восток
 north : Север
 south : Юг
 tree : Дерево
 sea : Море
-ocean : Океан
-rock : Скала
 plant : Растение
 flower : Цветок
 forest : Лес
@@ -162,7 +152,6 @@ grand father : Дедушка
 children : Дети
 home : Дом
 love : Любовь
-apartment : Квартира
 joy : Радость
 nephew : Племянник
 aunt : Тетя
@@ -192,7 +181,6 @@ story : История
 relax : Отдых
 time : Время
 word : Слово
-dialogue : Диалог
 meeting : Встреча
 week : Неделя
 distance : Дистанция
@@ -208,12 +196,10 @@ university : Университет
 union : Объединение
 party : Вечеринка
 date : Свидание
-sweetheart : Партнер, возлюбленный
 leisure time : Досуг
 road : Дорога
 ticket : Билет
 map : Карта
-motel : Мотель
 highway : Шоссе
 reception : Регистратура, ресепшн
 wallet : Бумажник
@@ -221,7 +207,6 @@ bank : Банк
 subway : Метро
 cab : Такси
 parking : Парковка
-food order : Заказ еды
 cash : Наличные
 passport : Паспорт
 permission : Разрешение
@@ -247,10 +232,8 @@ Afraid : Напуганный
 Angry : Сердитый
 Asleep : Спящий
 Attentive : Внимательный
-Available : Доступный
 Basic : Базовый
 Beautiful : Красивый
-Big : Большой
 Brave : Смелый
 Busy : Занятой
 Calm : Спокойный
@@ -320,10 +303,8 @@ Terrible : Жуткий
 Tired : Усталый
 Warm : Теплый
 Weak : Слабый
-Responsible : Ответственный, надежный
 Sad : Грустный
 International : Международный
-Together : Вместе
 According : В соответствии
 Again : Снова
 Always : Всегда
@@ -343,16 +324,13 @@ Certainly : Конечно
 Daily : Ежедневно
 Dreamily : Мечтательно
 Even : Даже
-Eventually : В конце концов
 Foolishly : Глупо
 Forward : Вперед
 Ever : Когда-либо
 Equally : Одинаково
 Fortunately : К счастью
-Honestly : Честно
 Instead : Вместо
 Inside : Внутри
-Also : Также
 Hardly : С трудом
 Lately : Недавно
 Less : Меньше
