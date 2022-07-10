@@ -1,0 +1,323 @@
+To abolish : Отменять, уничтожать, упразднять
+To approve : Утвердить, одобрить
+To boast : Гордиться, хвастаться
+To contribute : Жертвовать, вносить свой вклад
+To deliver : Доставлять, поставлять, приносить
+To descend : Спуститься, сходить, снизойти
+To concentrate : Сосредотачиваться
+To distract : Отвлечь, отвлекать
+To torture : Мучить, терзать
+To confuse : Путать, запутать, сбить с толку
+To abandon : Покинуть, бросить, оставить
+To escape : Совершить побег, убежать, сбежать
+To distribute : Распространять, распределить
+To elaborate : Разрабатывать, прорабатывать
+To construct : Строить, построить
+To humiliate : Унижать
+To maintain : Поддерживать
+To squeeze : Сжимать, выжимать, сжать
+To delegate : Делегировать, посылать
+To transfer : Передавать, перечислять
+To employ : Нанимать, использовать, работать
+To catch : Поймать, ловить
+To commit : Совершить, зафиксировать, поручить
+To arrange : Организовать, устроить
+To implement : Внедрить, реализовать, осуществить
+To insulate : Ограждать
+To encourage : Стимулировать
+To foster : Поощрять
+To boost : Повышать
+To optimize : Оптимизировать
+To rank : Ранжировать
+To identify : Определить, идентифицировать
+To empower : Наделить полномочиями, расширять
+To ensure : Обеспечить, убедить, гарантировать
+To accomplish : Выполнить, завершить, осуществить
+To customize : Настроить, сделать
+To localize : Локализовать, определить
+To tailor : Приспособить
+To validate : Удостоверять
+To reserve : Резервировать
+To estimate : Оценивать
+To consulate : Консультировать
+To regard : Рассматривать, учитывать, относиться
+To indicate : Указывать, обозначать, показывать
+To unify : Объединять
+To digitalize : Оцифровать, перевести в online-формат
+To expose : Подвергать
+To idealize : Идеализировать
+To navigate : Ориентироваться
+To sustain : Выдерживать
+To constrain : Сдерживать
+To evade : Обойти
+To purchase : Приобретать
+To earn : Зарабатывать
+To make sure : Убедиться
+To prototype : Создать протопит, план
+To endeavour : Стремиться
+To blend : Смешивать
+To prioritize : Расставить приоритеты
+To mitigate : Смягчать, принимать
+To emphasize : Подчеркнуть, придать акцент
+To observe : Наблюдать, замечать
+To evolve : Развиваться, расти, проявляться
+To incentivize : Стимулировать, побуждать
+To respond : Реагировать, отвечать
+To connect : Соединить
+To command : Командовать
+To check-out : Проверить, оформить
+To extend : Продлить, расширить, увеличить
+To retain : Оставить, удержать, сохранить
+To exhibit : Показывать
+To invent : Изобретать
+To abridge : Ограничивать
+To self-express : Самовыражаться
+To neglect : Пренебрегать
+To negotiate : Договариваться, вести переговоры
+To upgrade : Повышать, улучшать
+To renew : Обновить
+To specialize : Специализироваться
+To balance : Уравновешивать
+To absorb : Поглощать
+To overwhelm : Переполнять
+To align : Выравнивать
+To withdraw : Отстраниться
+To whistle : Свистеть
+To suspect : Подозревать
+To surrender : Сдаваться
+To depend on : Зависеть от
+To correct : Исправлять
+To define : Определить
+To visualize : Визуализировать
+To design : Проектировать
+To minimize : Минимизировать
+To disturb : Нарушить, беспокоить
+To integrate : Интегрировать
+To exchange : Обменивать, менять
+To organize : Организовать
+To collaborate : Сотрудничать
+To embed : Встраивать
+To generate : Генерировать
+addiction : Зависимость, пристрастие
+amateur : Любитель
+ambivalence : Нерешительность
+commission : Комиссия, поручение, заказчик
+confidence : Доверие, уверенность, достоверность
+craving : Желание, тяга, стремление, жажда
+district : Район
+evidence : Доказательство, признак, факт
+honesty : Честность
+circumstance : Обстоятельство, случай, событие
+kindness : Доброта
+justice : Справедливость
+disgust : Отвращение, брезгливость
+А suggestion : Предложение, суждение, идея
+А nobility : Благородство, достоинство
+commotion : Суета
+adherence : Приверженность
+devotion : Преданность
+enticement : Приманка, соблазн, заманивание
+attractiveness : Привлекательность
+freedom-loving : Свободолюбие
+rebel : Бунтарь
+influence : Влияние
+sway : Колебание
+willpower : Сила воли
+inequality : Неравенство
+А violence : Насилие, жестокость
+А bullying : Издевательство, травля
+А godliness : Благочестие, бодрость
+А compassion : Сострадание
+inclusivity : Инклюзивность
+А reciprocity : Взаимность, обоюдность
+friskiness : Игривость, раскованность, живость
+fervor : Пылкость, задор, рвение
+А youth : Молодежь, юноша, молодость
+adolescence : Подростковый возраст, отрочество
+А prerequisite : Предпосылка, условие
+fortune : Судьба, удача, желание, успех
+А Stubbornness : Упрямость
+disappointment : Разочарование
+distancing : Дистанцирование
+isolation : Изоляция
+self-care : Забота о себе
+medication : Лекарство
+celebration : Мероприятие
+physician : Врач, доктор, терапевт
+treatment : Лечение
+improvement : Улучшение
+symptom : Симптом
+dismay : Огорчение
+cancellation : Отмена
+suspiciousness : Подозрительность
+escalation : Обострение, эскалация
+proceeding : Разбирательство
+awareness : Осознание
+responsibility : Ответственность
+aftermath : Последствие
+weakness : Слабость
+rivalry : Соперничество, противостояние
+restlessness : Беспокойство
+uncertainty : Неуверенность, неопределенность
+stress resistance : Стрессоустойчивость
+conscience : Совесть
+А mindfulness : Внимательность, мышление, осознанность
+protection : Защита, протекция
+referral : Направление
+hopelessness : Безнадежность
+reliability : Надежность
+verification : Проверка
+self-isolation : Самоизоляция
+А provocation : Провокация
+prevention : Профилактика
+side effect : Побочный эффект
+vaccination : Вакцинация
+immunization : Иммунизация
+contradiction : Противоречие
+emotion : Эмоция
+disagreement : Разногласие
+misunderstanding : Недоразумение, недопонимание
+negotiation : Переговоры
+Слово : Перевод
+downfall : Падение, упадок, крах, понижение
+А setback : Неудача, провал
+А bad luck : Невезение, несчастье
+depression : Депрессия
+А solitude : Одиночество
+А self-blame : Самобичевание
+А disorder : Расстройство, разлад
+А instability : Нестабильность
+А challenge : Вызов, сложность
+А sustainability : Устойчивость, жизнеспособность
+duration : Продолжительность
+А luckiness : Удачливость, везение
+А fluke : Случайность, шанс
+А winning : Выигрыш, победа, завоевание
+lottery : Лотерея
+destination : Предназначение
+advantage : Преимущество
+win-win : Победа, выигрыш
+condition : Условие, обстоятельство, состояние
+contest : Соревнование, борьба, конкурс
+А humbleness : Смирение, скромность, покорность
+А fearlessness : Бесстрашие
+А hardening : Закалка, твердость
+А buoyancy : Оживленность, жизнелюбие
+А cheerfulness : Жизнерадостность, веселость
+А hospitality : Гостеприимство, радушие
+А pessimism : Пессимизм
+А morale : Мораль, дух, нрав, мужество
+А wisdom : Мудрость
+А proficiency : Мастерство, умение, квалификация
+applicant : Претендент, соискать, заявитель
+А decisiveness : Решительность
+А loophole : Лазейка, дыра
+А frustration : Фрустрация, разочарование
+А knowledge : Знание, познание
+А decision-making : Принятие решения
+alacrity : Аккуратность, активность, стремительность
+extremity : Крайность, упорство, чрезмерность
+А background : Фон, предпосылка
+А preparatory : Подготовка
+Слово : Перевод
+Arrogant : Высокомерный, заносчивый
+Civilian : Гражданский
+Commercial : Коммерческий
+Convenient : Удобный
+Creative : Креативный, творческий
+Naughty : Озорной, шаловливый
+Stationary : Стационарный
+Valuable : Ценный
+Significant : Значительный, существенный
+Foremost : Передовой, основной, главный
+Recent : Недавний
+Updated : Обновленный
+Operational : Оперативный, рабочий, действующий
+Intuitive : Интуитивно понятный, интуитивный
+Essential : Существенный, важный
+Numerous : Многочисленный
+Compliant : Соответствующий
+Straightforward : Прямой, прямолинейный
+Understandable : Понятный, доступный
+Uncompromising : Беспрекословный
+Distinguished : Выдающийся, уважаемый, отличительный
+Separate : Отдельный
+Outstanding : Незаурядный
+Principal : Принципиальный, главный
+Leading : Ведущий, лидирующий
+Cognitive : Когнитивный, познавательный
+Cutting-edge : Современный, новейший
+Precise : Точный, четкий
+Unmatched : Неповторимый, непревзойденный
+Reasonable : Разумный, целесообразный
+Fundamental : Основополагающий
+Brilliant : Блестящий, гениальный
+Inflexible : Несгибаемый, непогрешимый
+Crucial : Решающий, критический, важный
+Contemporary : Современный, актуальный
+Duplicated : Дублированный
+Tedious : Утомительный, кропотливый, надоедливый
+Multiple : Множественный, многочисленный
+Individual : Личный, индивидуальный
+Fitting : Подходящий
+Monotonous : Монотонный, однообразный
+Ruthless : Бесчеловечный
+Multi-channel : Многоканальный
+Astonishing : Удивительный, изумительный
+Ambitious : Амбициозный, честолюбивый
+Captivating : Захватывающий, завораживающий
+Profound : Глубокомысленный
+Qualified : Квалифицированный
+Remarkable : Замечательный, примечательный, выдающийся
+Additional : Дополнительный
+Burning : Горящий, жгучий
+Unassuming : Непритязательный
+Meaningful : Значимый, осмысленный
+Private : Личный, частный
+Careful : Бережный, осторожный
+Obscure : Наблюдательный, непонятный
+Accomplished : Состоятельный, успешный, достигнутый
+Ridiculous : Нелепый, смешной
+Contemptuous : Презрительный
+Fashionable : Модный
+Наречие : Перевод
+Invariably : Неизменно
+Intermittently : Иногда
+Infrequently : Редко
+Predominantly : Постоянно
+Elsewhere : Где-нибудь
+Scarcely : Едва
+Otherwise : Иначе
+Quickly : Быстро
+Quietly : Спокойно, тихо
+Moreover : Более того
+Nevertheless : Тем не менее
+Somewhat : До некоторой степени
+Cheerfully : Весело
+Clumsily : Неуклюже
+In vain : Напрасно
+At once : Немедленно
+Casually : Случайно
+Since that : С тех пор
+By all means : Во что бы то ни стало
+Readily : Охотно
+Outside : Снаружи
+Besides : Кроме того
+Once : Однажды
+However : Однако, как бы ни
+Yet : Еще, до сих пор
+Foolishly : Глупо, по глупости
+Clearly : Очевидно
+Actually : В общем, вообще-то
+Completely : Совершенно, абсолютно
+Extremely : Безумно
+Nearby : Рядом, неподалеку
+Unmistakable : Безошибочно
+Accurately : Точно
+Definitely : Абсолютно
+Relentlessly : Безостановочно
+Incredibly : Невероятно, очень, неимоверно
+Decidedly : Решительно
+Firmly : Уверенно
+Carelessly : Беспечно
+Nevertheless : Тем не менее
