@@ -21,24 +21,19 @@ To transfer : Передавать, перечислять
 To employ : Нанимать, использовать, работать
 To catch : Поймать, ловить
 To arrange : Организовать, устроить
-To implement : Внедрить, реализовать, осуществить
 To insulate : Ограждать
-To encourage : Стимулировать
 To foster : Поощрять
 To boost : Повышать
 To optimize : Оптимизировать
 To rank : Ранжировать
 To identify : Определить, идентифицировать
-To empower : Наделить полномочиями, расширять
 To ensure : Обеспечить, убедить, гарантировать
 To accomplish : Выполнить, завершить, осуществить
 To customize : Настроить, сделать
 To localize : Локализовать, определить
 To tailor : Приспособить
 To validate : Удостоверять
-To reserve : Резервировать
 To estimate : Оценивать
-To regard : Рассматривать, учитывать, относиться
 To indicate : Указывать, обозначать, показывать
 To unify : Объединять
 To digitalize : Оцифровать, перевести в online-формат
@@ -61,7 +56,6 @@ To observe : Наблюдать, замечать
 To evolve : Развиваться, расти, проявляться
 To incentivize : Стимулировать, побуждать
 To respond : Реагировать, отвечать
-To connect : Соединить
 To command : Командовать
 To check-out : Проверить, оформить
 To extend : Продлить, расширить, увеличить
@@ -93,7 +87,6 @@ To disturb : Нарушить, беспокоить
 To integrate : Интегрировать
 To exchange : Обменивать, менять
 To organize : Организовать
-To collaborate : Сотрудничать
 To embed : Встраивать
 To generate : Генерировать
 addiction : Зависимость, пристрастие
@@ -105,8 +98,6 @@ craving : Желание, тяга, стремление, жажда
 district : Район
 evidence : Доказательство, признак, факт
 honesty : Честность
-circumstance : Обстоятельство, случай, событие
-justice : Справедливость
 disgust : Отвращение, брезгливость
 А suggestion : Предложение, суждение, идея
 А nobility : Благородство, достоинство
@@ -120,14 +111,12 @@ rebel : Бунтарь
 influence : Влияние
 sway : Колебание
 willpower : Сила воли
-inequality : Неравенство
 А violence : Насилие, жестокость
 А bullying : Издевательство, травля
 А compassion : Сострадание
 inclusivity : Инклюзивность
 А reciprocity : Взаимность, обоюдность
 friskiness : Игривость, раскованность, живость
-fervor : Пылкость, задор, рвение
 adolescence : Подростковый возраст, отрочество
 А prerequisite : Предпосылка, условие
 fortune : Судьба, удача, желание, успех
@@ -148,21 +137,18 @@ awareness : Осознание
 responsibility : Ответственность
 aftermath : Последствие
 weakness : Слабость
-rivalry : Соперничество, противостояние
 restlessness : Беспокойство
 uncertainty : Неуверенность, неопределенность
 stress resistance : Стрессоустойчивость
 conscience : Совесть
 protection : Защита, протекция
 referral : Направление
-hopelessness : Безнадежность
 reliability : Надежность
 self-isolation : Самоизоляция
 А provocation : Провокация
 prevention : Профилактика
 side effect : Побочный эффект
 vaccination : Вакцинация
-contradiction : Противоречие
 emotion : Эмоция
 disagreement : Разногласие
 misunderstanding : Недоразумение, недопонимание
@@ -170,7 +156,6 @@ negotiation : Переговоры
 Слово : Перевод
 downfall : Падение, упадок, крах, понижение
 А setback : Неудача, провал
-А bad luck : Невезение, несчастье
 depression : Депрессия
 А solitude : Одиночество
 А self-blame : Самобичевание
@@ -191,11 +176,9 @@ condition : Условие, обстоятельство, состояние
 А hardening : Закалка, твердость
 А buoyancy : Оживленность, жизнелюбие
 А cheerfulness : Жизнерадостность, веселость
-А hospitality : Гостеприимство, радушие
 А pessimism : Пессимизм
 А morale : Мораль, дух, нрав, мужество
 А wisdom : Мудрость
-А proficiency : Мастерство, умение, квалификация
 applicant : Претендент, соискать, заявитель
 А decisiveness : Решительность
 А loophole : Лазейка, дыра
@@ -239,7 +222,6 @@ Fundamental : Основополагающий
 Brilliant : Блестящий, гениальный
 Inflexible : Несгибаемый, непогрешимый
 Crucial : Решающий, критический, важный
-Contemporary : Современный, актуальный
 Duplicated : Дублированный
 Multiple : Множественный, многочисленный
 Individual : Личный, индивидуальный
@@ -259,7 +241,6 @@ Unassuming : Непритязательный
 Meaningful : Значимый, осмысленный
 Obscure : Наблюдательный, непонятный
 Accomplished : Состоятельный, успешный, достигнутый
-Ridiculous : Нелепый, смешной
 Contemptuous : Презрительный
 Наречие : Перевод
 Invariably : Неизменно
@@ -270,7 +251,6 @@ Scarcely : Едва
 Otherwise : Иначе
 Quickly : Быстро
 Quietly : Спокойно, тихо
-Moreover : Более того
 Nevertheless : Тем не менее
 Somewhat : До некоторой степени
 Cheerfully : Весело
@@ -294,7 +274,6 @@ Nearby : Рядом, неподалеку
 Unmistakable : Безошибочно
 Accurately : Точно
 Definitely : Абсолютно
-Relentlessly : Безостановочно
 Incredibly : Невероятно, очень, неимоверно
 Decidedly : Решительно
 Firmly : Уверенно
