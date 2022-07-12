@@ -5,8 +5,6 @@ To see : Видеть
 To hear : Слышать
 To run : Бежать
 To get : Получать
-To make : Сделать
-To cook : Готовить
 To sing : Петь
 To speak : Разговаривать
 To say : Говорить
@@ -25,7 +23,6 @@ To breath : Дышать
 To buy : Покупать
 To forget : Забывать
 To believe : Верить
-To have : Иметь
 To go : Идти
 To know : Знать
 To think : Думать
@@ -48,15 +45,12 @@ To pray : Молиться
 To stay : Оставаться
 To mean : Означать
 To keep : Держать, хранить
-To let : Оставлять
 To begin : Начинать
-To start : Стартовать
 To finish : Заканчивать
 To show : Показывать
 To cry : Плакать
 To move : Двигаться
 To jump : Прыгать
-To live : Жить
 To die : Умирать
 To happen : Случаться
 To lose : Проигрывать
@@ -72,7 +66,6 @@ To understand : Понимать
 To watch : Смотреть
 To discover : Исследовать
 To imagine : Представлять
-To introduce : Представить
 To follow : Следовать
 To create : Создавать
 To grow : Расти
@@ -91,7 +84,6 @@ To achieve : Достигать
 To kill : Убивать
 To pass : Проходить
 To fly : Летать
-To swim : Плавать
 To decide : Решать
 To return : Возвращаться
 To hope : Надеяться
@@ -110,10 +102,8 @@ To choose : Выбирать
 To catch : Ловить
 To ask : Спрашивать
 To answer : Отвечать
-To hesitate : Cомневаться
 air : Воздух
 wind : Ветер
-water : Вода
 east : Восток
 north : Север
 south : Юг
@@ -134,7 +124,6 @@ house : Дом
 fire : Огонь
 country : Страна
 animal : Животное
-bird : Птица
 fish : Рыба
 insect : Насекомое
 city : Город
@@ -194,7 +183,6 @@ attitude : Отношение
 student : Студент
 university : Университет
 union : Объединение
-party : Вечеринка
 date : Свидание
 leisure time : Досуг
 road : Дорога
@@ -202,7 +190,6 @@ ticket : Билет
 map : Карта
 highway : Шоссе
 reception : Регистратура, ресепшн
-wallet : Бумажник
 bank : Банк
 subway : Метро
 cab : Такси
@@ -233,7 +220,6 @@ Angry : Сердитый
 Asleep : Спящий
 Attentive : Внимательный
 Basic : Базовый
-Beautiful : Красивый
 Brave : Смелый
 Busy : Занятой
 Calm : Спокойный
@@ -243,7 +229,6 @@ Clean : Чистый
 Clever : Умный
 Cold : Холодный
 Comfortable : Комфортный
-Confident : Уверенный
 Constant : Постоянный
 Curious : Любопытный
 Dangerous : Опасный
@@ -259,7 +244,6 @@ Exact : Точный
 Fast : Быстрый
 Fair : Честный, светлый
 Fine : Замечательный
-Foreign : Иностранный
 Free : Свободный
 Fresh : Свежий
 Full : Полный
@@ -269,7 +253,6 @@ Healthy : Здоровый
 Hard : Тяжелый
 Helpful : Полезный
 Honest : Честный
-Hot : Горячий
 Hungry : Голодный
 Important : Важный
 Illegal : Нелегальный, незаконный
@@ -292,8 +275,6 @@ Quiet : Тихий
 Rare : Редкий
 Recent : Недавний
 Relevant : Релевантный, актуальный
-Remote : Удаленный
-Safe : Безопасный
 Short : Короткий
 Small : Маленький
 Strange : Странный, незнакомый, чужой
@@ -306,7 +287,6 @@ Weak : Слабый
 Sad : Грустный
 International : Международный
 According : В соответствии
-Again : Снова
 Always : Всегда
 Beautifully : Красиво
 Carefully : Осторожно
@@ -321,7 +301,6 @@ Badly : Плохо
 Besides : Помимо этого
 Briefly : Кратко
 Certainly : Конечно
-Daily : Ежедневно
 Dreamily : Мечтательно
 Even : Даже
 Foolishly : Глупо
