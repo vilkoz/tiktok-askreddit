@@ -2,7 +2,6 @@ To abolish : Отменять, уничтожать, упразднять
 To approve : Утвердить, одобрить
 To boast : Гордиться, хвастаться
 To contribute : Жертвовать, вносить свой вклад
-To deliver : Доставлять, поставлять, приносить
 To descend : Спуститься, сходить, снизойти
 To concentrate : Сосредотачиваться
 To distract : Отвлечь, отвлекать
@@ -17,7 +16,6 @@ To humiliate : Унижать
 To maintain : Поддерживать
 To squeeze : Сжимать, выжимать, сжать
 To delegate : Делегировать, посылать
-To transfer : Передавать, перечислять
 To employ : Нанимать, использовать, работать
 To catch : Поймать, ловить
 To arrange : Организовать, устроить
@@ -28,12 +26,9 @@ To optimize : Оптимизировать
 To rank : Ранжировать
 To identify : Определить, идентифицировать
 To ensure : Обеспечить, убедить, гарантировать
-To accomplish : Выполнить, завершить, осуществить
 To customize : Настроить, сделать
 To localize : Локализовать, определить
-To tailor : Приспособить
 To validate : Удостоверять
-To estimate : Оценивать
 To indicate : Указывать, обозначать, показывать
 To unify : Объединять
 To digitalize : Оцифровать, перевести в online-формат
@@ -45,7 +40,6 @@ To constrain : Сдерживать
 To evade : Обойти
 To purchase : Приобретать
 To earn : Зарабатывать
-To make sure : Убедиться
 To prototype : Создать протопит, план
 To endeavour : Стремиться
 To blend : Смешивать
@@ -144,7 +138,6 @@ protection : Защита, протекция
 referral : Направление
 reliability : Надежность
 self-isolation : Самоизоляция
-А provocation : Провокация
 prevention : Профилактика
 side effect : Побочный эффект
 vaccination : Вакцинация
@@ -158,7 +151,6 @@ downfall : Падение, упадок, крах, понижение
 depression : Депрессия
 А solitude : Одиночество
 А self-blame : Самобичевание
-А disorder : Расстройство, разлад
 А instability : Нестабильность
 А sustainability : Устойчивость, жизнеспособность
 duration : Продолжительность
@@ -193,7 +185,6 @@ Civilian : Гражданский
 Commercial : Коммерческий
 Convenient : Удобный
 Creative : Креативный, творческий
-Naughty : Озорной, шаловливый
 Stationary : Стационарный
 Valuable : Ценный
 Significant : Значительный, существенный
@@ -215,17 +206,14 @@ Leading : Ведущий, лидирующий
 Cognitive : Когнитивный, познавательный
 Cutting-edge : Современный, новейший
 Precise : Точный, четкий
-Fundamental : Основополагающий
 Brilliant : Блестящий, гениальный
 Inflexible : Несгибаемый, непогрешимый
 Crucial : Решающий, критический, важный
 Duplicated : Дублированный
-Multiple : Множественный, многочисленный
 Individual : Личный, индивидуальный
 Fitting : Подходящий
 Monotonous : Монотонный, однообразный
 Ruthless : Бесчеловечный
-Multi-channel : Многоканальный
 Astonishing : Удивительный, изумительный
 Ambitious : Амбициозный, честолюбивый
 Captivating : Захватывающий, завораживающий
