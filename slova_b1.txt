@@ -125,7 +125,6 @@ disappointment : Разочарование
 distancing : Дистанцирование
 isolation : Изоляция
 self-care : Забота о себе
-celebration : Мероприятие
 physician : Врач, доктор, терапевт
 treatment : Лечение
 symptom : Симптом
@@ -183,7 +182,6 @@ applicant : Претендент, соискать, заявитель
 А decisiveness : Решительность
 А loophole : Лазейка, дыра
 А frustration : Фрустрация, разочарование
-А knowledge : Знание, познание
 А decision-making : Принятие решения
 alacrity : Аккуратность, активность, стремительность
 extremity : Крайность, упорство, чрезмерность
@@ -217,7 +215,6 @@ Leading : Ведущий, лидирующий
 Cognitive : Когнитивный, познавательный
 Cutting-edge : Современный, новейший
 Precise : Точный, четкий
-Reasonable : Разумный, целесообразный
 Fundamental : Основополагающий
 Brilliant : Блестящий, гениальный
 Inflexible : Несгибаемый, непогрешимый
