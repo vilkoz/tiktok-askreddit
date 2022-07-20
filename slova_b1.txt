@@ -10,7 +10,6 @@ To confuse : Путать, запутать, сбить с толку
 To abandon : Покинуть, бросить, оставить
 To escape : Совершить побег, убежать, сбежать
 To distribute : Распространять, распределить
-To construct : Строить, построить
 To humiliate : Унижать
 To maintain : Поддерживать
 To squeeze : Сжимать, выжимать, сжать
@@ -35,7 +34,6 @@ To navigate : Ориентироваться
 To sustain : Выдерживать
 To constrain : Сдерживать
 To evade : Обойти
-To purchase : Приобретать
 To earn : Зарабатывать
 To prototype : Создать протопит, план
 To endeavour : Стремиться
@@ -125,7 +123,6 @@ aftermath : Последствие
 weakness : Слабость
 restlessness : Беспокойство
 uncertainty : Неуверенность, неопределенность
-stress resistance : Стрессоустойчивость
 conscience : Совесть
 protection : Защита, протекция
 referral : Направление
@@ -186,7 +183,6 @@ Intuitive : Интуитивно понятный, интуитивный
 Essential : Существенный, важный
 Numerous : Многочисленный
 Compliant : Соответствующий
-Straightforward : Прямой, прямолинейный
 Understandable : Понятный, доступный
 Uncompromising : Беспрекословный
 Distinguished : Выдающийся, уважаемый, отличительный
@@ -201,7 +197,6 @@ Brilliant : Блестящий, гениальный
 Inflexible : Несгибаемый, непогрешимый
 Crucial : Решающий, критический, важный
 Duplicated : Дублированный
-Fitting : Подходящий
 Monotonous : Монотонный, однообразный
 Ruthless : Бесчеловечный
 Astonishing : Удивительный, изумительный

@@ -39,7 +39,6 @@ To put : Класть
 To leave : Оставлять
 To pay : Платить
 To pray : Молиться
-To stay : Оставаться
 To mean : Означать
 To keep : Держать, хранить
 To begin : Начинать
@@ -84,7 +83,6 @@ To return : Возвращаться
 To hope : Надеяться
 To explain : Объяснять
 To propose : Предлагать
-To develop : Развивать
 To support : Поддерживать
 To dance : Танцевать
 To draw : Рисовать
@@ -119,7 +117,6 @@ insect : Насекомое
 city : Город
 world : Мир
 boy : Мальчик
-girl : Девочка
 mother : Мама
 father : Отец
 son : Сын
@@ -177,7 +174,6 @@ highway : Шоссе
 reception : Регистратура, ресепшн
 bank : Банк
 subway : Метро
-cab : Такси
 parking : Парковка
 cash : Наличные
 passport : Паспорт
@@ -256,12 +252,10 @@ Relevant : Релевантный, актуальный
 Short : Короткий
 Small : Маленький
 Strange : Странный, незнакомый, чужой
-Successful : Успешный
 Tasty : Вкусный, приятный
 Terrible : Жуткий
 Tired : Усталый
 Warm : Теплый
-Weak : Слабый
 Sad : Грустный
 International : Международный
 According : В соответствии
