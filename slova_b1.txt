@@ -10,7 +10,6 @@ To confuse : Путать, запутать, сбить с толку
 To abandon : Покинуть, бросить, оставить
 To escape : Совершить побег, убежать, сбежать
 To distribute : Распространять, распределить
-To elaborate : Разрабатывать, прорабатывать
 To construct : Строить, построить
 To humiliate : Унижать
 To maintain : Поддерживать
@@ -19,7 +18,6 @@ To delegate : Делегировать, посылать
 To employ : Нанимать, использовать, работать
 To catch : Поймать, ловить
 To arrange : Организовать, устроить
-To insulate : Ограждать
 To foster : Поощрять
 To boost : Повышать
 To optimize : Оптимизировать
@@ -30,7 +28,6 @@ To customize : Настроить, сделать
 To localize : Локализовать, определить
 To validate : Удостоверять
 To indicate : Указывать, обозначать, показывать
-To unify : Объединять
 To digitalize : Оцифровать, перевести в online-формат
 To expose : Подвергать
 To idealize : Идеализировать
@@ -43,14 +40,12 @@ To earn : Зарабатывать
 To prototype : Создать протопит, план
 To endeavour : Стремиться
 To blend : Смешивать
-To prioritize : Расставить приоритеты
 To mitigate : Смягчать, принимать
 To emphasize : Подчеркнуть, придать акцент
 To observe : Наблюдать, замечать
 To evolve : Развиваться, расти, проявляться
 To incentivize : Стимулировать, побуждать
 To respond : Реагировать, отвечать
-To command : Командовать
 To check-out : Проверить, оформить
 To extend : Продлить, расширить, увеличить
 To retain : Оставить, удержать, сохранить
@@ -62,7 +57,6 @@ To neglect : Пренебрегать
 To negotiate : Договариваться, вести переговоры
 To upgrade : Повышать, улучшать
 To renew : Обновить
-To specialize : Специализироваться
 To balance : Уравновешивать
 To absorb : Поглощать
 To overwhelm : Переполнять
@@ -112,7 +106,6 @@ inclusivity : Инклюзивность
 А reciprocity : Взаимность, обоюдность
 friskiness : Игривость, раскованность, живость
 adolescence : Подростковый возраст, отрочество
-А prerequisite : Предпосылка, условие
 fortune : Судьба, удача, желание, успех
 А Stubbornness : Упрямость
 disappointment : Разочарование
@@ -138,7 +131,6 @@ protection : Защита, протекция
 referral : Направление
 reliability : Надежность
 self-isolation : Самоизоляция
-prevention : Профилактика
 side effect : Побочный эффект
 vaccination : Вакцинация
 emotion : Эмоция
@@ -188,7 +180,6 @@ Creative : Креативный, творческий
 Stationary : Стационарный
 Valuable : Ценный
 Significant : Значительный, существенный
-Foremost : Передовой, основной, главный
 Recent : Недавний
 Operational : Оперативный, рабочий, действующий
 Intuitive : Интуитивно понятный, интуитивный
@@ -210,7 +201,6 @@ Brilliant : Блестящий, гениальный
 Inflexible : Несгибаемый, непогрешимый
 Crucial : Решающий, критический, важный
 Duplicated : Дублированный
-Individual : Личный, индивидуальный
 Fitting : Подходящий
 Monotonous : Монотонный, однообразный
 Ruthless : Бесчеловечный
@@ -230,17 +220,13 @@ Contemptuous : Презрительный
 Наречие : Перевод
 Invariably : Неизменно
 Intermittently : Иногда
-Infrequently : Редко
 Elsewhere : Где-нибудь
-Scarcely : Едва
-Otherwise : Иначе
 Quickly : Быстро
 Quietly : Спокойно, тихо
 Nevertheless : Тем не менее
 Somewhat : До некоторой степени
 Cheerfully : Весело
 Clumsily : Неуклюже
-In vain : Напрасно
 Casually : Случайно
 Since that : С тех пор
 By all means : Во что бы то ни стало
@@ -249,10 +235,8 @@ Outside : Снаружи
 Besides : Кроме того
 Once : Однажды
 However : Однако, как бы ни
-Yet : Еще, до сих пор
 Foolishly : Глупо, по глупости
 Clearly : Очевидно
-Actually : В общем, вообще-то
 Completely : Совершенно, абсолютно
 Extremely : Безумно
 Nearby : Рядом, неподалеку

@@ -7,8 +7,8 @@ def main():
     with open(argv[1], "r") as f:
         lines = f.readlines()
     results = []
-    title = "Переклади слова рівня A1"
-    while input(f"one more? [{len(results)}]:") in ["y", "+"]:
+    title = "Переклади слова рівня B1"
+    while input(f"one more? [{len(results)} | {len(results)//3}]:") in ["y", "+"]:
         line_to_remove = random.randint(0, len(lines))
         new_line = lines.pop(line_to_remove)
         eng_word = new_line.split(" : ")[0]
@@ -22,7 +22,7 @@ def main():
     chunk_size = 3
     results = [results[i : i + chunk_size] for i in range(0, len(results), chunk_size)]
 
-    part_offset = 14 + 1
+    part_offset = 18 + 1
     for i, r in enumerate(results):
         print({"title": f"{title} ч. {i+part_offset}", "parts": r})
     with open(argv[1], "w") as f:

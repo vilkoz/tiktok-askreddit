@@ -24,8 +24,6 @@ To forget : Забывать
 To believe : Верить
 To go : Идти
 To know : Знать
-To think : Думать
-To come : Приходить
 To want : Хотеть
 To use : Использовать
 To find : Находить
@@ -80,7 +78,6 @@ To fall : Падать
 To cut : Резать
 To achieve : Достигать
 To kill : Убивать
-To pass : Проходить
 To fly : Летать
 To decide : Решать
 To return : Возвращаться
@@ -94,7 +91,6 @@ To draw : Рисовать
 To book : Бронировать
 To be afraid : Бояться
 To agree : Соглашаться
-To check up : Проверять
 To delete : Удалять
 To choose : Выбирать
 To catch : Ловить
@@ -114,11 +110,8 @@ person : Личность
 night : Ночь
 morning : Утро
 day : День
-evening : Вечер
 life : Жизнь
-mountain : Гора
 land : Земля
-fire : Огонь
 country : Страна
 animal : Животное
 fish : Рыба
@@ -132,7 +125,6 @@ father : Отец
 son : Сын
 daughter : Дочь
 baby : Малыш
-family : Семья
 grand mother : Бабушка
 grand father : Дедушка
 children : Дети
@@ -179,7 +171,6 @@ attitude : Отношение
 student : Студент
 university : Университет
 union : Объединение
-date : Свидание
 leisure time : Досуг
 road : Дорога
 highway : Шоссе
@@ -200,7 +191,6 @@ suitcase : Чемодан
 property : Имущество
 law : Право, закон
 police station : Полицейский участок
-price : Стоимость, цена
 price list : Ценник
 courier : Курьер
 delivery : Доставка
@@ -224,7 +214,6 @@ Cold : Холодный
 Comfortable : Комфортный
 Constant : Постоянный
 Curious : Любопытный
-Dangerous : Опасный
 Dark : Темный
 Deep : Глубокий
 Different : Разный
@@ -262,7 +251,6 @@ Perfect : Идеальный
 Powerful : Мощный
 Possible : Возможный
 Quiet : Тихий
-Rare : Редкий
 Recent : Недавний
 Relevant : Релевантный, актуальный
 Short : Короткий
@@ -284,10 +272,8 @@ Correctly : Верно, правильно
 Especially : Особенно
 Friendly : Дружелюбно
 Indeed : Действительно
-Above : Выше
 Accidentally : Случайно
 Actually : На самом деле
-Badly : Плохо
 Besides : Помимо этого
 Briefly : Кратко
 Certainly : Конечно
@@ -298,7 +284,6 @@ Forward : Вперед
 Ever : Когда-либо
 Equally : Одинаково
 Fortunately : К счастью
-Inside : Внутри
 Hardly : С трудом
 Lately : Недавно
 Less : Меньше
