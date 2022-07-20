@@ -9,7 +9,6 @@ To sing : Петь
 To speak : Разговаривать
 To say : Говорить
 To tell : Рассказывать
-To take : Брать
 To sit : Садиться
 To stand : Стоять
 To smile : Улыбаться
@@ -46,7 +45,6 @@ To stay : Оставаться
 To mean : Означать
 To keep : Держать, хранить
 To begin : Начинать
-To finish : Заканчивать
 To show : Показывать
 To cry : Плакать
 To move : Двигаться
@@ -120,7 +118,6 @@ evening : Вечер
 life : Жизнь
 mountain : Гора
 land : Земля
-house : Дом
 fire : Огонь
 country : Страна
 animal : Животное
@@ -164,7 +161,6 @@ place : Место
 market : Рынок
 order : Заказ
 food : Еда
-work : Работа
 communication : Общение
 story : История
 relax : Отдых
@@ -186,8 +182,6 @@ union : Объединение
 date : Свидание
 leisure time : Досуг
 road : Дорога
-ticket : Билет
-map : Карта
 highway : Шоссе
 reception : Регистратура, ресепшн
 bank : Банк
@@ -226,7 +220,6 @@ Calm : Спокойный
 Careful : Внимательный, заботливый
 Cheap : Дешевый
 Clean : Чистый
-Clever : Умный
 Cold : Холодный
 Comfortable : Комфортный
 Constant : Постоянный
@@ -236,14 +229,12 @@ Dark : Темный
 Deep : Глубокий
 Different : Разный
 Difficult : Трудный
-Dirty : Грязный
 Easy : Легкий
 Every : Каждый
 Expensive : Дорогой
 Exact : Точный
 Fast : Быстрый
 Fair : Честный, светлый
-Fine : Замечательный
 Free : Свободный
 Fresh : Свежий
 Full : Полный
@@ -268,7 +259,6 @@ Normal : Нормальный
 Old : Старый
 Opposite : Противоположный
 Perfect : Идеальный
-Poor : Бедный
 Powerful : Мощный
 Possible : Возможный
 Quiet : Тихий
@@ -308,7 +298,6 @@ Forward : Вперед
 Ever : Когда-либо
 Equally : Одинаково
 Fortunately : К счастью
-Instead : Вместо
 Inside : Внутри
 Hardly : С трудом
 Lately : Недавно
@@ -317,7 +306,6 @@ Loudly : Громко, шумно
 Nearly : Около
 Never : Никогда
 Only : Только
-Once : Один раз
 Often : Часто
 Perhaps : Возможно
 Quickly : Быстро
