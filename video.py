@@ -1,4 +1,5 @@
 from moviepy.editor import *
+from functools import cache
 import random,os
 
 resolution = (1080,1920)
@@ -44,15 +45,35 @@ def render(name):
     return True
 
 
+@cache
+def __get_bg_color():
+    return random.choice([
+        (255, 213, 205),
+        (239, 187, 207),
+        (195, 174, 214),
+        (134, 117, 169),
+        (201, 0, 201),
+    ])
+
+
 def __get_text_clip_with_params(text, fontsize=128):
     return TextClip(txt=text,
-        bg_color='pink',
+        #bg_color='pink',
         color='white',
         stroke_color='black',
         stroke_width=1,
         font='Helvetica-Neue',
         fontsize=fontsize
     )
+
+
+def __add_transparent_background(text_clip):
+    #color_clip = ColorClip(size=(text_clip.size[0]+50, text_clip.size[1]+50), color=(255,0,255))
+    #color_clip.set_opacity(0.8)
+    #color_clip.set_duration(text_clip.duration)
+    #return CompositeVideoClip([color_clip, text_clip]).set_duration(text_clip.duration)
+    return text_clip.on_color(size=(text_clip.size[0]+50, text_clip.size[1]+50), color=__get_bg_color(), col_opacity=0.6)
+
 
 
 def _make_countdown_clip(part):
@@ -63,7 +84,7 @@ def _make_countdown_clip(part):
     #image_clip = image_clip.fx(vfx.resize,width=resolution[0]*0.9)
     #image_clip = image_clip.set_position(("center",0.7), relative=True)
 
-    return image_clip, sound_clip
+    return __add_transparent_background(image_clip), sound_clip
 
 
 def _make_text_clip(part, texts, title):
@@ -76,7 +97,7 @@ def _make_text_clip(part, texts, title):
     image_clip = image_clip.fx(vfx.resize,width=resolution[0]*0.9)
     image_clip = image_clip.set_position(("center","center"))
 
-    return image_clip, sound_clip
+    return __add_transparent_background(image_clip), sound_clip
 
 
 def _make_clip_with_text(part, texts, title):
@@ -101,7 +122,7 @@ def __add_countdown_to_question(q_image, q_audio, countdown):
     print('duration after:', q_image.duration)
     composite_video = CompositeVideoClip(
         [
-            q_image,
+            q_image.set_position(("center", "center")),
             image_clips.set_start(question_duration).set_position(("center", resolution[1]*0.7)),
         ],
         size=resolution,
@@ -171,4 +192,7 @@ def render_qna(name, texts, title):
     composite.write_videofile(f'render/{name}.mp4',threads=4,fps=24,
         audio_fps=44100, audio_nbytes=2, audio_bufsize=2000, audio_codec='aac'
     )
+    #composite.write_videofile(f'render/{name}.webm',threads=4,fps=24,codec='libvpx',
+    #    audio_fps=44100, audio_nbytes=2, audio_bufsize=2000, audio_codec='libvorbis',#audio_codec='aac'
+    #)
     return True
